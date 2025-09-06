@@ -22,7 +22,6 @@ The notebook covers dataset analysis, preprocessing, model building, and evaluat
 
 ## 📂 Files in Repository
 - `Default.ipynb` – Jupyter Notebook with ML implementation for credit default prediction.
-- `Default.csv` – Dataset used for training/testing.
 - `README.md` – Documentation.
 
 ---
